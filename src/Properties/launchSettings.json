@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "logsifter": {
+      "commandName": "Project",
+      "commandLineArgs": "-i .\\Output.txt"
+    }
+  }
+}
